@@ -1,4 +1,4 @@
-# EAW Lighting Fixer
+# EAWv Remake Lighting Fixer
 
 **Target Mod:** [STEAM-1770851727] Empire at War Remake: Clone Wars
 **Focus:** Space Skirmish Maps (Visuals)
